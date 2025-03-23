@@ -2,14 +2,14 @@
 A Streamlit-based AI application that extracts emotion-specific frames from videos, generates thumbnails, and allows users to download them.
 
 
-# Emotion Frame Extractor 🎭
+# Emotion Frame Extractor
 # Overview
 This AI-powered Streamlit application allows users to:
-✅ Upload a video file
-✅ Select an emotion (e.g., happy, surprise, etc.)
-✅ Analyze the video to detect faces with the chosen emotion
-✅ Extract and generate thumbnails of the detected frames
-✅ Download the extracted thumbnails
+  1. Upload a video file
+  2. Select an emotion (e.g., happy, surprise, etc.)
+  3. Analyze the video to detect faces with the chosen emotion
+  4. Extract and generate thumbnails of the detected frames
+  5. Download the extracted thumbnails
 
 # Technologies Used
 Python
