@@ -19,8 +19,7 @@ Streamlit
 
 # How to Run
 1. Clone the repository:
-2. git clone https://github.com/your-username/emotion-frame-extractor.git
-3. cd emotion-frame-extractor
+2. cd emotion-frame-extractor
 
 # Install dependencies:
 1. OpenCV
